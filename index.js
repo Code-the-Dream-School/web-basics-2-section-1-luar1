@@ -159,3 +159,4 @@ let num2 = multiplyByTwo(5);
 let num3 = multiplyByTwo(10);
 
 console.log(num1, num2, num3);
+
